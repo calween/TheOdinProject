@@ -5,11 +5,17 @@ h1 {
 h2 {
     color: darkblue;
     font-family: 'Courier New', Courier, monospace;
-    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+body{
+    background-color: pink;
 }
 p {
-    color: burlywood;
+    color: darkslateblue;
     font-size: medium;
-    border: 2px solid black;
+    border: 1px solid grey;
+    border-radius: 15px;
     padding: 30px;
+    text-align: center;
 }
