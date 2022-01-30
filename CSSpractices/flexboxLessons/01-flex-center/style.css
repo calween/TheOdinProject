@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    background-color: lightskyblue;
+    border: 3px solid black;
+    width: 50%;
+    height: 320px;
+    /*padding: 125px 50px 125px 50px;*/
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    display: flex;
+    background-color: lightcoral;
+    border: 5px solid darkred;
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    align-content: center;
+}
